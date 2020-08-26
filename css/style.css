@@ -201,7 +201,7 @@ h1,h2,#ch,#ma,label{
     transform: translateY(4px);
   }
 form input,textarea{
-    font-size: 1.2rem;
+    font-size: .9rem;
     font-family: inherit;
 }
 #name:focus, #email:focus, #pass:focus, #date:focus,#text:focus {
